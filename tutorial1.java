@@ -6,7 +6,7 @@ import java.util.Locale;
 
 public class tutorial1 {
     public static void main(String[] args) {
-        String message = "    HEllo world" + "!!" ;
+        Strin message = "    HEllo world" + "!!" ;
 
         System.out.println(message.trim());
         System.out.println(message);
