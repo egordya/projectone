@@ -1,4 +1,4 @@
-package com.tutorial;
+package projectone;
 
 import java.awt.*;
 import java.util.Locale;
@@ -6,7 +6,7 @@ import java.util.Locale;
 
 public class tutorial1 {
     public static void main(String[] args) {
-        Strin message = "    HEllo world" + "!!" ;
+        String message = "    HEllo world" + "!!" ;
 
         System.out.println(message.trim());
         System.out.println(message);
