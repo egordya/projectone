@@ -4,6 +4,6 @@ public class testing123 {
         String message = "This is a test number 4";
 
         System.out.println(message.trim());
-        System.out.println(message);
+        System.out.println(message); //ändring
     }
 }
