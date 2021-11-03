@@ -5,5 +5,11 @@ public class testing123 {
 
         System.out.println(message.trim());
         System.out.println(message);
+
+        String message = "This is a test number 2";
+
+        System.out.println(message.trim());
+        System.out.println(message);
+
     }
 }
